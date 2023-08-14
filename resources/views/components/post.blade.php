@@ -5,4 +5,4 @@
     <input type="text" name="title" placeholder="title"/>
     <textarea name="body" placeholder="body conn" ></textarea>
     <button>Save post</button></form>
-</div>
+</div>php artisan migrate

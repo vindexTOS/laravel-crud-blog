@@ -22,7 +22,7 @@
 </form>
 
 <x-post/>
-
+<x-all-post  :posts="$posts" />
     @else
     
     <div  style='border: 3px solid black' >
